@@ -16,4 +16,4 @@ When Journal Finder was originally built nearly 5 years ago, it was configured p
 
 This repository contains all the files and plugins necessary to run the smartphone edition of Journal Finder. However, due to licensing arrangements around Library-subscribed publications and metrics data, the database can not been made available. More can be understood about this project via 'Strategic Publishing Using Journal Finder' by Susan Robbins and Jason Ensor (https://www.vala.org.au/vala2016-proceedings/vala2016-session-9-robbins/). The Journal Finder is made open source following commitments made during a presentation by Jason Ensor and Michael Gonzalez at the Australian National University and CAUL 'Reinventing University Publishing' conference ("It's Time to Pull Out the Stopper: Rethinking Impact in Post-Print Scholarship", 17-19 March 2015, Canberra, Australia.), and during Susan's Robbins and Jason Ensor's presentation at VALA 2016. For further details, please email jasondensor@gmail.com.
 
-![screenshot_1.png]
+![https://raw.githubusercontent.com/enjensor/Does-It-Count/master/screenshot_1.png]
